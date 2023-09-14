@@ -152,17 +152,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
+hash = "e0a413e58a6e744391029c6719e68c6632e006327bc99d90fd8228e7c375ab28"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
+hash = "5c965f3b3252545ab352617176298655677476f0957d2670b1081e67e842f0d5"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+hash = "64af84b17704aef10a36cabe6d016b486a79a34dbb32282b0335a77c64b4d0f4"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+hash = "6227f073d4e9eec1febcaa74d5da73d6cc8879fb59d3ae05d9c6bf265d48c5a8"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+hash = "13503bbb1e5b69e785ed3916280d9f14fd1b1fa7ff23e66baeb7674bac2a092e"
 metafile = true
 
 [[files]]

@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/fThnVRli/versions/IudUBEkl/JadeAddons-1.19.
 hash-format = "sha1"
 hash = "84663e12db5c9619fd21064ab227899c799ab759"
 
+[option]
+optional=true
+
 [update]
 [update.modrinth]
 mod-id = "fThnVRli"
