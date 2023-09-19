@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/client_scripts/HideUncrafting.js"
+hash = "e9e4f95199933bc175cd07894be3c7ef8bb5545ad35baeceadada9fc3715195d"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
