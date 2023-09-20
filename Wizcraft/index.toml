@@ -60,6 +60,11 @@ hash = "c78ed89fd681f68f3f2f733a4270df3e0b2498838b966990b690b54be1f6ac79"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "cb5ddf0131a246d5f49ef7ca54b0e2d6c3f408d08cf56c55fe46a8a57c34e706"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "a7af649273525c694e70110db99305bc00070f7a0c7a29c7aa686f626670a331"
 metafile = true
