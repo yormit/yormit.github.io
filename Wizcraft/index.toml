@@ -60,6 +60,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e4e41345ed8934c593dcce4f413c67de18d0f94d6888a6372aa96d416dc74a85"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "c78ed89fd681f68f3f2f733a4270df3e0b2498838b966990b690b54be1f6ac79"
 metafile = true
@@ -140,6 +145,11 @@ hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "852196e33e1b5c328a189b14e93e3a5e82db287ac49703f91c7c436d2248fc65"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "2b6969305cf06523684d31043844f1c8f147a875c899bfbc1097e60468f274d7"
 metafile = true
 
 [[files]]
@@ -312,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
+metafile = true
+
+[[files]]
+file = "mods/pick-your-poison.pw.toml"
+hash = "7d521085ff1a7c50a66ff9b8a1e14639440746fb08c829b83bdc1fac0986ef22"
 metafile = true
 
 [[files]]
