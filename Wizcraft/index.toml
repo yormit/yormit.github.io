@@ -490,5 +490,13 @@ hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
 
 [[files]]
+file = "scripts/common/phials.zs"
+hash = "1068058d9b32c01fa72017517227a284d1489e76c3763e9744cec85f7361bc33"
+
+[[files]]
+file = "scripts/recipes/merge_phials.zs"
+hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
+
+[[files]]
 file = "servers.dat"
 hash = "aa0bb26da3c61e804f4545020823b24984fe82253dbde0a708c2c846b1a8c1f6"
