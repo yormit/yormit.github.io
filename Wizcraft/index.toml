@@ -50,6 +50,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -90,6 +95,36 @@ hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "8410f11e8c7658b9a26f858d0b8c9e6791ffa14cc6d344dd282eaf14364ea297"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "c416e3d01f9fc86dddd2e1a34eefc24e51adb7911d808e324a2dfe384f46e081"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1af331f149591f52845722de0191eabd889e924b54f300879753bb1270b00485"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
@@ -110,6 +145,11 @@ hash = "9dfee34c65cc3187306614d28852a4ef3afbc32a24cc78392f02c965b64bfc97"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
@@ -121,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+hash = "89d6613d6c29ec06e95757ba8869c627472fc63f2c6555fe583823868bc439bc"
 metafile = true
 
 [[files]]
@@ -147,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
+metafile = true
+
+[[files]]
+file = "mods/hexxytweaks.pw.toml"
+hash = "9d8cc3d32c7245ba9949b78fba86af485cfd850d9408d4c43442e368e11e79ee"
 metafile = true
 
 [[files]]
@@ -195,8 +240,8 @@ hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+file = "mods/markdownmanual.pw.toml"
+hash = "9cc8b009039ce5b1d108e01a8d81a1790a82f38e435688027401796565c5e3d6"
 metafile = true
 
 [[files]]
@@ -225,6 +270,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/packages.pw.toml"
+hash = "7418b4718ab028dde214061c827821822bec440abd73aa0f9ef9492623f6c474"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -240,6 +290,11 @@ hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
@@ -247,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "91038892b40c499a4e4ebf4856246f376089034824bba995b0ec2306014110f8"
 metafile = true
 
 [[files]]
@@ -292,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
+hash = "68ff795e48038f3deb5da43451db227a193475b8cb53ca3cedb329d503450905"
 metafile = true
 
 [[files]]
