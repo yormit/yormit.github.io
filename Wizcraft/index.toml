@@ -285,6 +285,11 @@ hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
@@ -352,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "fc110b22c1aea6f416f479ea7ffa700b129c9689a721363b294736d59c121fa8"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "647e9c56b0ea86c65d5acc42d2a78192d4b6c0e7de6b1cc0824ab6be1b929bb6"
 metafile = true
 
 [[files]]
