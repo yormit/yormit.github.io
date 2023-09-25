@@ -135,6 +135,11 @@ hash = "aa2ba24336c95600379a026bb0214f30b2b62cc902ab49aca31a45fcb3581cff"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "852196e33e1b5c328a189b14e93e3a5e82db287ac49703f91c7c436d2248fc65"
 metafile = true
@@ -270,6 +275,26 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9d5c488d315c66c9f1c20a7f3c12fe7eedf502d7541cd26a23063d71154b2d91"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "569840d3fe74fe9d4b093fb456b8a9f4d167eabee8b155b1e08bbce71ecb6285"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+metafile = true
+
+[[files]]
 file = "mods/packages.pw.toml"
 hash = "7dfddcaadfedb63517ca793d26e510580d167b5986fb963154cda0397d6bbb42"
 metafile = true
@@ -347,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "115708f32db501f577bd48fce5b56cd0b4114edbfd2e38bbe4e03466a31220db"
 metafile = true
 
 [[files]]
@@ -441,4 +471,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "6247c301a78f2f9c30c5ed7d8bfcb187901edd6a24b7bf6b4e8e4c6b159baaa3"
+hash = "aa0bb26da3c61e804f4545020823b24984fe82253dbde0a708c2c846b1a8c1f6"
