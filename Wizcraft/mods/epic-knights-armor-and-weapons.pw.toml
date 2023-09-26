@@ -1,0 +1,13 @@
+name = "Epic Knights: Shields, Armor and Weapons [Fabric & Forge]"
+filename = "[1.19.2-fabric]-Epic-Knights-8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1fc514d869c3f1265b34f7ce55a2e944b5fe3fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4696042
+project-id = 509041
