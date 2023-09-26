@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/veinmining-common.toml"
+hash = "3d14dcd2cd2d5f8a0d74a67c5223c4582841e2e0659e784ccd746dedfc493923"
+
+[[files]]
 file = "kubejs/client_scripts/HideUncrafting.js"
 hash = "6090a5392445ba9b33ed9fdcb7c2e8cf772a144b760f3a23af36f8500daed6bf"
 
