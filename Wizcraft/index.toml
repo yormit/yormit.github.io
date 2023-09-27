@@ -154,9 +154,8 @@ hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "7a31fd54536b60798505056950a37f469449fffb2722487766506443a323cb6d"
-metafile = true
+file = "mods/figura-0.1.2+1.19.2-fabric-mc.jar"
+hash = "1a3d871eac9a2c497f11549cb0822aa02fd04596ac01e50b86f0625824f9764b"
 
 [[files]]
 file = "mods/flan.pw.toml"
