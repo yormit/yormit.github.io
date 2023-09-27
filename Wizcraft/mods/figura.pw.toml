@@ -1,11 +1,7 @@
 name = "Figura"
 filename = "figura-0.1.2+1.19.2-fabric-mc.jar"
-side = "client"
 
 [download]
-url = "https://github.com/yormit/yormit.github.io/blob/main/figura-0.1.2%2B1.19.2-fabric-mc.jar"
+url = "https://github.com/yormit/yormit.github.io/raw/main/figura-0.1.2%2B1.19.2-fabric-mc.jar"
 hash-format = "sha256"
-hash = "b0f42fe007c40cf71927241e3526b57b1fd713aec4aa3939957ef8c71c08c212"
-
-[option]
-optional=true
+hash = "1a3d871eac9a2c497f11549cb0822aa02fd04596ac01e50b86f0625824f9764b"
