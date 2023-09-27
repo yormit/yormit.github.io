@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "852196e33e1b5c328a189b14e93e3a5e82db287ac49703f91c7c436d2248fc65"
+hash = "eeb1becfae60be7ab8504ed4591f970752b5dcc41837a3986a3d6b7765849402"
 metafile = true
 
 [[files]]
@@ -266,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "87651359e2422540722091ba167a7a4c0d993d8f0de9fb66e729f2e8085ad91f"
+metafile = true
+
+[[files]]
+file = "mods/mediaworks.pw.toml"
+hash = "102ca00ec06cd6dd06c13832cd2c8186e4c1b7e6bb4e60f2c15e2bd8091070d3"
 metafile = true
 
 [[files]]
