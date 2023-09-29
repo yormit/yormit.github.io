@@ -115,22 +115,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "1a6dac84936fa82620881336b2bdfd44723eb83b40ea5ff92548007770fb6c00"
+hash = "ed6e61322a5ef999bff3a9bdae06774e5a391067d87c5da7f386e8a44b562a08"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "fe405702d6419f56eeb263c9017aa7d02c8e199ed52cfc22dbc24531e1b8b345"
+hash = "3b2a73568368563d3d95ecc5e23cf8d829e5dd67813f329a8e47063e9deb32b4"
 metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "eacb2c0d12fa89589f01eb8d297ae223d89b67b1c5f3b0793f3d33daf278dbb8"
+hash = "effde7794f9ec4bd6b993eb67105cda5b94ac4d44c447d2a3a998fb84b1e9ce3"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "6f75b71e3951f2dd6eb009e4a56dd9171a07d0823a212b0984907d418adc4a13"
+hash = "7f7864efd687e4ca9fac3b972c98a463dba8f3f1eb5f57da38f10c1155c4dc94"
 metafile = true
 
 [[files]]
@@ -223,6 +223,11 @@ hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
 
 [[files]]
+file = "mods/impersonate.pw.toml"
+hash = "bcb5424fedd8fe3d91821b177daaa69b5455b7d89f3280d6475223a58d182659"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -234,17 +239,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e0a413e58a6e744391029c6719e68c6632e006327bc99d90fd8228e7c375ab28"
+hash = "89d556cc64d52965210fed3bc66a4e5401fb004e4e990ecbe24644f27e9ded77"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "5c965f3b3252545ab352617176298655677476f0957d2670b1081e67e842f0d5"
+hash = "af67f9c00af66ba423920bec4b245464322333d75420ba6b60ea67b726b4cb1b"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "64af84b17704aef10a36cabe6d016b486a79a34dbb32282b0335a77c64b4d0f4"
+hash = "a20d203f2fffa21f62795713e64d064e20779188be37f162ea908278f0c56c14"
 metafile = true
 
 [[files]]
@@ -263,6 +268,11 @@ hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "b3501a7f76745c70f319a487ab71d553e43558c732890daa1abed779e194d09c"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "87651359e2422540722091ba167a7a4c0d993d8f0de9fb66e729f2e8085ad91f"
 metafile = true
@@ -274,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6227f073d4e9eec1febcaa74d5da73d6cc8879fb59d3ae05d9c6bf265d48c5a8"
+hash = "b2f18c6628b6e79c80701fd20d0c2342f3eee2c0bdc82aedf1954e7f3beb98b0"
 metafile = true
 
 [[files]]
@@ -289,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "13503bbb1e5b69e785ed3916280d9f14fd1b1fa7ff23e66baeb7674bac2a092e"
+hash = "0166815f60a7b0def0c612b659cd03a8a0a7258cc1dbd83fd444bd0fc24f7393"
 metafile = true
 
 [[files]]
@@ -440,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/wnboi.pw.toml"
 hash = "44eeee05cb8e51124585414df5221036f052c3b0a91a7c18d3dfb393db91ed15"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "ab04ad342b33e4b59b7b19bee5254f9fd0f8ee0398cf2fabad3bdff419ef8c7f"
 metafile = true
 
 [[files]]

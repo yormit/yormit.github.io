@@ -1,0 +1,17 @@
+name = "WTHIT"
+filename = "wthit-quilt-5.19.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/nUiC76bU/wthit-quilt-5.19.0.jar"
+hash-format = "sha1"
+hash = "6112175e746257096ae7b522b52ba15595e8ff27"
+
+[option]
+optional=true
+description="\"What the Hell is that?\"\nThis mod shows you what blocks you are currently looking at.\n\nCAUTION: Either use this or Jade. DON'T USE BOTH!\n\nTry both and choose the one you like better. But not at the same time!"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "nUiC76bU"

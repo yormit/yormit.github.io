@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/CUoRjscx/emi-1.0.20%2B1.1
 hash-format = "sha1"
 hash = "810f038722ada25783c6edca9851935e9691761c"
 
+[option]
+optional=false
+description="Inventory sidebar for looking at Items and Recipes.\n\nCAUTION: Either use this or REI. DON'T USE BOTH!"
+
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
