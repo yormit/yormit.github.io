@@ -9,6 +9,7 @@ hash = "84663e12db5c9619fd21064ab227899c799ab759"
 
 [option]
 optional=true
+description="Addon for JADE.\n\nCAUTION: Only use this if you have Jade enabled!"
 
 [update]
 [update.modrinth]

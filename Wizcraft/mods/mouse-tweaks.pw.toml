@@ -9,6 +9,7 @@ hash = "6004ccf55a3013c54fdbef3b28613c3326231d2c"
 
 [option]
 optional=true
+description="Pretty neat QOL mod. Helps immensly with inventory management.\n\nI recommend taking a look at its mod page to see everything you can do. Search for it on curseforge or modrinth."
 
 [update]
 [update.modrinth]

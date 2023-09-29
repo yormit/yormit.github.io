@@ -9,6 +9,7 @@ hash = "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
 
 [option]
 optional=true
+description="Just a menu for mods. Allows you to look which mods are installed while in-game."
 
 [update]
 [update.modrinth]

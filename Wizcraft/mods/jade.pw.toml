@@ -9,6 +9,7 @@ hash = "1b3cdd8639ff6083bcf68a76f76a38d1a0afcab7"
 
 [option]
 optional=true
+description="This mod shows you what blocks you are currently looking at.\n\nCAUTION: Either use this or WTHIT. DON'T USE BOTH!\n\nTry both and choose the one you like better. But not at the same time!"
 
 [update]
 [update.modrinth]
