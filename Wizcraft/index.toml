@@ -398,6 +398,11 @@ hash = "bc6c5e5bb7e2a6459f3e995d4f6a6c8a37d6d0c38cc1115fb20f0aad34138b9b"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
+metafile = true
+
+[[files]]
 file = "mods/skylib.pw.toml"
 hash = "6803ee2e6d7f6d15d6a9d7198fb37c57af5294e94dba16df1aec8db6f8a7ed1d"
 metafile = true
