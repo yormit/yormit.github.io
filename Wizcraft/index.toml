@@ -149,6 +149,11 @@ hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
 file = "mods/figura-0.1.2+1.19.2-fabric-mc.jar"
 hash = "1a3d871eac9a2c497f11549cb0822aa02fd04596ac01e50b86f0625824f9764b"
 
@@ -258,6 +263,11 @@ hash = "05a309f25c33e95e2d3fb3e5258a38a3f087d5fc46ea60a1eb3702df420359b6"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
@@ -275,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/mediaworks.pw.toml"
 hash = "102ca00ec06cd6dd06c13832cd2c8186e4c1b7e6bb4e60f2c15e2bd8091070d3"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -405,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
