@@ -413,6 +413,11 @@ hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6bd6cfa80b12a665c7d4e43005bab7857b2047d2f985eacca58e65abb478ce2e"
+metafile = true
+
+[[files]]
 file = "mods/skylib.pw.toml"
 hash = "6803ee2e6d7f6d15d6a9d7198fb37c57af5294e94dba16df1aec8db6f8a7ed1d"
 metafile = true
