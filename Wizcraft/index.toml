@@ -263,11 +263,6 @@ hash = "05a309f25c33e95e2d3fb3e5258a38a3f087d5fc46ea60a1eb3702df420359b6"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
@@ -403,11 +398,6 @@ hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "bc6c5e5bb7e2a6459f3e995d4f6a6c8a37d6d0c38cc1115fb20f0aad34138b9b"
-metafile = true
-
-[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
 metafile = true
@@ -430,11 +420,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0f869885401d2d187d8cfaaacb275cf8eb86ac48b9994c3f1e9a1fb62a2bce7c"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
