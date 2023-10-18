@@ -503,6 +503,16 @@ hash = "f2926e81784e2a97463b1fcf33a0e27d9aff0e423e7270029fd4694adef016c4"
 metafile = true
 
 [[files]]
+file = "mods/xl-c2s-packets-fabric.pw.toml"
+hash = "9265eb556f1b4235b5ee3439ed98f27049103f04f0f8176ae10b8ba892036dc3"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets-fabric.pw.toml"
+hash = "35988077ec610d8a16b001de28faf1f8f0f36607d843dae909368487d6dc54f8"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true

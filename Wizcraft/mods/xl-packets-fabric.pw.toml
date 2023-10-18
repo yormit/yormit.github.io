@@ -1,0 +1,7 @@
+name = "XL-Packets-Fabric"
+filename = "xl-packets-fabric.pw.toml"
+
+[download]
+url = "https://github.com/HexxyCraft/modpack/blob/master/mods/xl-packets-fabric.pw.toml"
+hash-format = "sha256"
+hash = "f3aa48f79982443609f64b2c4b92228b39c4537fbf9e354a14e2fa46320c8cc4"
