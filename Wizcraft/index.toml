@@ -489,12 +489,12 @@ metafile = true
 
 [[files]]
 file = "mods/xl-c2s-packets-fabric.pw.toml"
-hash = "9265eb556f1b4235b5ee3439ed98f27049103f04f0f8176ae10b8ba892036dc3"
+hash = "bc37d961e1e1b05c10e04e5dc9bd13f75cfad45751338b5738b9556f87976c64"
 metafile = true
 
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
-hash = "35988077ec610d8a16b001de28faf1f8f0f36607d843dae909368487d6dc54f8"
+hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
 metafile = true
 
 [[files]]

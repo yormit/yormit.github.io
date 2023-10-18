@@ -1,7 +1,7 @@
-name = "XL-c2s-Packets-Fabric"
-filename = "xl-c2s-packets-fabric.pw.toml"
+name = "XL C2S Packets Fabric"
+filename = "xlc2spackets-mc1.19.2-1.1.jar"
 
 [download]
-url = "https://github.com/HexxyCraft/modpack/blob/master/mods/xl-c2s-packets-fabric.pw.toml"
-hash-format = "sha256"
-hash = "64c0091a72e94edefd6898a0a60e62af35ea44b2006433a1145ea53f4db22725"
+url = "https://github.com/HexxyCraft/XLC2SPacketsFabric/releases/download/1.1/xlc2spackets-mc1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "3f4865a84582e1098c9e9a5db44e62496a24a67b"
