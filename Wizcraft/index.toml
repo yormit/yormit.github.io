@@ -149,11 +149,6 @@ hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
-metafile = true
-
-[[files]]
 file = "mods/figura-0.1.2+1.19.2-fabric-mc.jar"
 hash = "1a3d871eac9a2c497f11549cb0822aa02fd04596ac01e50b86f0625824f9764b"
 
@@ -280,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/mediaworks.pw.toml"
 hash = "102ca00ec06cd6dd06c13832cd2c8186e4c1b7e6bb4e60f2c15e2bd8091070d3"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
