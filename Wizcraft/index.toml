@@ -218,11 +218,6 @@ hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
 
 [[files]]
-file = "mods/impersonate.pw.toml"
-hash = "bcb5424fedd8fe3d91821b177daaa69b5455b7d89f3280d6475223a58d182659"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -260,11 +255,6 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "b3501a7f76745c70f319a487ab71d553e43558c732890daa1abed779e194d09c"
 metafile = true
 
 [[files]]
