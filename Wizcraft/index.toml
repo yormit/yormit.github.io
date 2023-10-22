@@ -34,6 +34,11 @@ hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
 metafile = true
 
 [[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "9c08cef866a1e9448d44ba04874df4df9ab4be4e8064f9274d56a57de79d168e"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -378,11 +388,6 @@ hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6bd6cfa80b12a665c7d4e43005bab7857b2047d2f985eacca58e65abb478ce2e"
 metafile = true
@@ -435,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "5e59c51a0e5e779760f90c0a0f4bd631c1158b05acb72984747b27e0e119a244"
 metafile = true
 
 [[files]]
