@@ -408,6 +408,11 @@ hash = "0f869885401d2d187d8cfaaacb275cf8eb86ac48b9994c3f1e9a1fb62a2bce7c"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
 metafile = true
