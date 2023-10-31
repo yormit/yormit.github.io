@@ -9,6 +9,11 @@ file = "kubejs/client_scripts/HideUncrafting.js"
 hash = "6090a5392445ba9b33ed9fdcb7c2e8cf772a144b760f3a23af36f8500daed6bf"
 
 [[files]]
+file = "mods/ad-vitam.pw.toml"
+hash = "75038f7f81972cc7e80bb69f810e0c73eb8747f1c680db340fc5b9c0cb88e2a6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -173,6 +178,11 @@ hash = "9f82dc5c6a622d2060df7553a77641ac6d46448ae464045da778db8dd46f0944"
 metafile = true
 
 [[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "33b0c63ff55058cfb285fbcc50a7adacde22ad699244266c847326377670aabe"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
@@ -268,6 +278,11 @@ hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "114a5ff78e24bc0794339becc35fc54c62c37e1b1122b9ce1aa5c7225cc1493a"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "87651359e2422540722091ba167a7a4c0d993d8f0de9fb66e729f2e8085ad91f"
 metafile = true
@@ -300,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
 metafile = true
 
 [[files]]
@@ -405,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0f869885401d2d187d8cfaaacb275cf8eb86ac48b9994c3f1e9a1fb62a2bce7c"
+metafile = true
+
+[[files]]
+file = "mods/spirit.pw.toml"
+hash = "8f3a781db770fbcdac185c49ea914cceca1b76620b7d5776dc2e7f00669c7676"
 metafile = true
 
 [[files]]

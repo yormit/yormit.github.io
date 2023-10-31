@@ -1,0 +1,13 @@
+name = "Ad Vitam"
+filename = "advitam-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eQ8QBuQ3/versions/17wKUSJt/advitam-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "77a7c58d668b701de16cb58e7cd7d985cb033631"
+
+[update]
+[update.modrinth]
+mod-id = "eQ8QBuQ3"
+version = "17wKUSJt"
