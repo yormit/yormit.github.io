@@ -5,10 +5,6 @@ file = "config/veinmining-common.toml"
 hash = "3d14dcd2cd2d5f8a0d74a67c5223c4582841e2e0659e784ccd746dedfc493923"
 
 [[files]]
-file = "kubejs/client_scripts/HideUncrafting.js"
-hash = "6090a5392445ba9b33ed9fdcb7c2e8cf772a144b760f3a23af36f8500daed6bf"
-
-[[files]]
 file = "mods/ad-vitam.pw.toml"
 hash = "75038f7f81972cc7e80bb69f810e0c73eb8747f1c680db340fc5b9c0cb88e2a6"
 metafile = true
@@ -36,11 +32,6 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
-metafile = true
-
-[[files]]
-file = "mods/betteranimalsplus.pw.toml"
-hash = "9c08cef866a1e9448d44ba04874df4df9ab4be4e8064f9274d56a57de79d168e"
 metafile = true
 
 [[files]]
@@ -168,11 +159,6 @@ file = "mods/figura-0.1.2+1.19.2-fabric-mc.jar"
 hash = "1a3d871eac9a2c497f11549cb0822aa02fd04596ac01e50b86f0625824f9764b"
 
 [[files]]
-file = "mods/flan.pw.toml"
-hash = "9dfee34c65cc3187306614d28852a4ef3afbc32a24cc78392f02c965b64bfc97"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "9f82dc5c6a622d2060df7553a77641ac6d46448ae464045da778db8dd46f0944"
 metafile = true
@@ -265,11 +251,6 @@ metafile = true
 [[files]]
 file = "mods/kettle.pw.toml"
 hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "05a309f25c33e95e2d3fb3e5258a38a3f087d5fc46ea60a1eb3702df420359b6"
 metafile = true
 
 [[files]]
@@ -395,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "4f0b333b8e7563bddd287a53974acff42109275f35c42931b8674e0b0f0c10a9"
 metafile = true
 
 [[files]]
