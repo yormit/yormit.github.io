@@ -10,6 +10,11 @@ hash = "75038f7f81972cc7e80bb69f810e0c73eb8747f1c680db340fc5b9c0cb88e2a6"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "0322d8b529d1495a3cf8938d9ea0b9d759fc644c23a09b8c2758ca0550493a38"
 metafile = true
 
 [[files]]
@@ -174,6 +184,11 @@ hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "2dad3b4950557e9ae9e9df186a557737ad7791efe195bc52cac83b66ed69f746"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
@@ -246,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "a20d203f2fffa21f62795713e64d064e20779188be37f162ea908278f0c56c14"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
 metafile = true
 
 [[files]]
@@ -324,6 +344,11 @@ hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
 file = "mods/packages.pw.toml"
 hash = "7dfddcaadfedb63517ca793d26e510580d167b5986fb963154cda0397d6bbb42"
 metafile = true
@@ -379,8 +404,18 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
+metafile = true
+
+[[files]]
 file = "mods/scarves.pw.toml"
 hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
 
 [[files]]
@@ -461,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e33fd461dcf4611ce9c93224766b828ec7252709042d8bd593316a7d90b80295"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "9a04610015be28c1a16f1b9141ededdf05081d9cf2f9502f02ddf5538bf72eac"
 metafile = true
 
 [[files]]
