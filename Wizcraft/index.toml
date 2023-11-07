@@ -10,6 +10,11 @@ hash = "75038f7f81972cc7e80bb69f810e0c73eb8747f1c680db340fc5b9c0cb88e2a6"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
@@ -364,6 +369,11 @@ hash = "9d5c488d315c66c9f1c20a7f3c12fe7eedf502d7541cd26a23063d71154b2d91"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
+metafile = true
+
+[[files]]
 file = "mods/origins-plus-plus.pw.toml"
 hash = "569840d3fe74fe9d4b093fb456b8a9f4d167eabee8b155b1e08bbce71ecb6285"
 metafile = true
@@ -519,11 +529,6 @@ hash = "751ea2bdffc029ee3df1e4039b68fc3d878d3d7c084cd8034eb19ff63e5556fe"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
-metafile = true
-
-[[files]]
 file = "mods/transmog.pw.toml"
 hash = "4379fca2a3568b459c6adf763fecfb470d811f886ad9f9cfb32f22c45e7e8218"
 metafile = true
@@ -596,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
