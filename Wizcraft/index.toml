@@ -95,6 +95,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "e4e41345ed8934c593dcce4f413c67de18d0f94d6888a6372aa96d416dc74a85"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "16d63e67fc609fd71738428f3755f716e6d18e31f0afbf99edd26470ea29194b"
 metafile = true
 
 [[files]]
@@ -702,6 +712,10 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
+
+[[files]]
+file = "scripts/bundle.zs"
+hash = "473ecfd9e8ddb63d2cb03405645e02dab903847ebe10b87dc564fe6dc26fe3c7"
 
 [[files]]
 file = "scripts/common/phials.zs"
