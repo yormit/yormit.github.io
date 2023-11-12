@@ -50,6 +50,11 @@ hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "b469c86a931721e040f584123ecb78a007cbf30de61a702d14fb73f71f7ebba0"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
 metafile = true
@@ -130,6 +135,11 @@ hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ddc119727d68f328426d28cd898757760d265e3acb3377ba86c22746c5e18525"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "c5785779dcfe286bf71217f6af2330b234ba957d49a3e9f29fcdbe6b200273af"
 metafile = true
@@ -172,6 +182,16 @@ metafile = true
 [[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "69ad1e02281091c38ed8366f4efcfe4f9e3141d603655154b605e5f745838d48"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "f26ef771ff8f9b19237c284322a17407db78e65b7d96afb010bf52182b1f3662"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "f2023058268e9abb0466eb6310ea9eda6f12f68b9339f1c52a94e16611c9bc66"
 metafile = true
 
 [[files]]
@@ -294,6 +314,11 @@ hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+hash = "15621be8230cccbabbe2beb4694b1e26d0f7bf380db23aa12b056104327e149d"
+metafile = true
+
+[[files]]
 file = "mods/kettle.pw.toml"
 hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
 metafile = true
@@ -306,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "2503f9a1b399d01d25cd81b22941744d676c26401d8bf307565d8d47c4b28c80"
 metafile = true
 
 [[files]]
@@ -414,6 +444,11 @@ hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "ea3ba6d06a88da29ff2061b686d57f77a08bf87e88d41c48320ff3e6fa1e69a1"
+metafile = true
+
+[[files]]
 file = "mods/pick-your-poison.pw.toml"
 hash = "7d521085ff1a7c50a66ff9b8a1e14639440746fb08c829b83bdc1fac0986ef22"
 metafile = true
@@ -421,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "5af048eafd9534c111825695ff60b39b709fb3e87d4ea6fae4f62a941728b348"
 metafile = true
 
 [[files]]
@@ -546,6 +586,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "2b1754210181cfec8875bd0406b602113482c447c786619748dedb2aff3aefb5"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "3064a8552e99dc0d5047d33f5174de8b25b7d4b5f265e9e75cb1c7e2478d9324"
 metafile = true
 
 [[files]]
