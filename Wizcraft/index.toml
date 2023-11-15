@@ -65,6 +65,11 @@ hash = "96db2068a8edb47d615d74bdc89241174b1d0aa7859b0bcffef365d801dd5717"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
 metafile = true
@@ -277,6 +282,14 @@ metafile = true
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
 metafile = true
+
+[[files]]
+file = "mods/hexxy-amethyst-gravity-1.1.11.19.2.jar"
+hash = "50e5c896b62c4290c856c32875d83dbde46bbbf67173eb8c46c598215ef77b98"
+
+[[files]]
+file = "mods/hexxy-gravity-api-1.0.3-1.19.2.jar"
+hash = "8d305998828dd40676c55285c263ef938d1c7e75db2cc9d152908dcfda50ccba"
 
 [[files]]
 file = "mods/hexxytweaks.pw.toml"
@@ -576,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "751ea2bdffc029ee3df1e4039b68fc3d878d3d7c084cd8034eb19ff63e5556fe"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "9aebc0358f746d679fbd53f8e675fe591e367ba15752656b151b8a23a426062f"
 metafile = true
 
 [[files]]
