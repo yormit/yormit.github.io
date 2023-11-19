@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexgloop.pw.toml"
-hash = "f83b97ff8bd08eba534568c9cb8b1927f686df6e2056615e40e9f02b04422d33"
+hash = "86f5b8a847acab83f7311f5bc4c881b172b981a1ebb1fea34561326187398870"
 metafile = true
 
 [[files]]
