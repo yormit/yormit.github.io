@@ -279,6 +279,11 @@ hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
 
 [[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "3ad8cdda38ecf39f0add9e30d9a3f810e5253ec44e14a66ffd1cb303839269b4"
+metafile = true
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
 metafile = true
@@ -409,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
+metafile = true
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
